@@ -5,7 +5,7 @@ int main(void)
 {
   int counter;
   int i;
-  int is_prime;
+  int is_prime=1;
   
   for (counter=2; counter <=100; counter++)
   {
