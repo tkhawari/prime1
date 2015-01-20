@@ -10,6 +10,7 @@ int main(void)
   {
     printf(", %i", counter);
   }
+  printf("\n");
   
   return 0;
 }
