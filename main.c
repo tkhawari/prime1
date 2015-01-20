@@ -12,7 +12,7 @@ int main(void)
     is_prime=1;
     for (i=2; i<=counter-1; i++)
     {
-      if (i %counter != 0)
+      if (counter%i != 0)
       is_prime=0;
     }
     if (is_prime)
