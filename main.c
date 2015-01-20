@@ -8,7 +8,7 @@ int main(void)
   
   for (counter=1; counter <=100; counter++)
   {
-    if (counter...)
+    printf("%i", counter);
   }
   
   return 0;
