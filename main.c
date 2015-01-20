@@ -11,4 +11,5 @@ int main(void)
     if (counter...)
   }
   
+  return 0;
 }
