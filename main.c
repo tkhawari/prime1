@@ -15,7 +15,7 @@ int main(void)
       if (i %counter != 0)
       is_prime=0;
     }
-    if (is_prime==0)
+    if (is_prime)
     printf("%i,", counter);
   }
   printf("\n");
