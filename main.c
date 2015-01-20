@@ -11,7 +11,7 @@ int main(void)
     for (i=2; i<=counter-1; i++)
     {
       if (i %counter != 0)
-      printf("%i", counter);
+      
     }
     
     printf("%i,", counter);
