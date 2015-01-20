@@ -4,7 +4,6 @@
 int main(void)
 {
   int counter;
-  int prime;
   
   for (counter=2; counter <=100; counter++)
   {
